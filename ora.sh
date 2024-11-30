@@ -158,7 +158,8 @@ function main_menu() {
     clear
     echo "脚本以及教程由 @GKCDAO 提供，免费开源"
     echo "=====================ORA节点安装========================="
-    echo "社区 DebOX 群组:https://m.debox.pro/group?id=3lihdybn"
+    echo "社区 DeBox 群组:"
+    echo "https://m.debox.pro/group?id=3lihdybn"
     echo "请选择要执行的操作:"
     echo "1. 安装ORA节点"
     echo "2. 查看日志"
