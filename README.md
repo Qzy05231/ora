@@ -12,5 +12,6 @@ https://www.alchemy.com/faucets/ethereum-sepolia?source=post_page-----e4975546db
 https://www.alchemy.com/  
 在Linux系统运行以下脚本：  
 wget -O ora.sh https://raw.githubusercontent.com/Qzy05231/ora/refs/heads/main/ora.sh && chmod +x ora.sh && ./ora.sh
-选择要执行的操作  
+  
+选择要执行的操作<br>
 输入各项PRC执行
